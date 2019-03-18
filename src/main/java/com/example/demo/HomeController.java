@@ -20,8 +20,4 @@ public class HomeController {
         return "secure";
     }
 
-//    @RequestMapping("/admin")
-//    public String admin(){
-//        return "admin";
-//    }
 }
